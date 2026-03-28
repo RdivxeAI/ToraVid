@@ -58,7 +58,8 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 If you would like to join the project or collaborate with us, please reach out via email:
 
-📩 
+📩 [info@rdivxe.com](mailto:info@rdivxe.com)
+
 ## Disclaimer
 
 This project is intended for research purposes only.
