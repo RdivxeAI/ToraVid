@@ -56,6 +56,9 @@ python generate.py --prompt "A cinematic sunset over mountains" --output output.
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
+If you would like to join the project or collaborate with us, please reach out via email:
+
+📩 
 ## Disclaimer
 
 This project is intended for research purposes only.
